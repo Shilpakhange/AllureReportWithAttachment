@@ -1,0 +1,8 @@
+-------------------------------------------------------------------------------
+Test set: TestSuite
+-------------------------------------------------------------------------------
+Tests run: 3, Failures: 1, Errors: 0, Skipped: 0, Time elapsed: 68.972 sec <<< FAILURE! - in TestSuite
+loginpagetitleTest(com.qa.testcases.TestLoginpage)  Time elapsed: 0.07 sec  <<< FAILURE!
+java.lang.AssertionError: expected [CRMPRO123 - CRM software for customer relationship management, sales, and support.] but found [CRMPRO - CRM software for customer relationship management, sales, and support.]
+	at com.qa.testcases.TestLoginpage.loginpagetitleTest(TestLoginpage.java:42)
+
